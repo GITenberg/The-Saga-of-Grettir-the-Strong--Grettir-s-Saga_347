@@ -1,0 +1,26 @@
+_repo: The-Saga-of-Grettir-the-Strong--Grettir-s-Saga_347
+_version: 0.0.1
+alternative_title: Grettis saga. English
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grettir Ásmundarson, 996-1031 -- Fiction'
+- !lcsh 'Vikings -- Fiction'
+- !lcsh 'Sagas -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: 'The Saga of Grettir the Strong: Grettir''s Saga'
+url: http://www.gutenberg.org/ebooks/347

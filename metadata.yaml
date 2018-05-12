@@ -1,6 +1,9 @@
 _repo: The-Saga-of-Grettir-the-Strong--Grettir-s-Saga_347
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Grettis saga. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/347#The-Saga-of-Grettir-the-Strong--Grettir-s-Saga
 gutenberg_issued: '2008-07-05'
 gutenberg_type: Text
 identifiers:
